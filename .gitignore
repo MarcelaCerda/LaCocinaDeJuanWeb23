@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+_pycache
+.vscode
+include
+Lib
+web
+.git
+Scripts
+
+
